@@ -1,4 +1,4 @@
-## Information:
+# Information:
 
 I'm currently working through Microsoft's resources for getting familiar with C# once again: https://dotnet.microsoft.com/en-us/learn/csharp
 This way I will be 100% refreshed back up on my C# Skills.
