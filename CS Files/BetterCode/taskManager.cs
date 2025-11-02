@@ -1,5 +1,7 @@
 // Task Maker:
 
+// I made this program for fun, found it on a random folder on my computer.
+// Allows you to make a task, view tasks, clear tasks etc.
 
 using System;
 using System.Collections.Generic;
